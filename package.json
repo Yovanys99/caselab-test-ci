@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "engines": {
     "node": ">=18"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "@some/ui": "^2.0.0",
+    "@mycompany/utils": "^1.0.0"
   }
 }
