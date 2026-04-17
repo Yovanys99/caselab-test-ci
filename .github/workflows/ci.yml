@@ -8,7 +8,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '16'
-      - run: npm install
+      - run: npm innnstall
       - name: Simulate CI failure
         run: |
           echo "npm warn EBADENGINE unsupported engine"
