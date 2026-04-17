@@ -4,7 +4,7 @@ jobs:
   build:
     runs-on: ubuntu-lammmtest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actbbbions/checkout@v4
       - uses: actions/setup-node@v4
         with:debut theme
           node-version: '16'
